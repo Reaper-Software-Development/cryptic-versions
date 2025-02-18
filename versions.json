@@ -5,10 +5,10 @@
       "channel": "LIVE"
     },
     "certificate": {
-      "x64": "https://cdn.discordapp.com/attachments/1337133580618305648/1341154184317370398/CrypticSetup.exe?ex=67b6482a&is=67b4f6aa&hm=fb3d7fa4d1e8164c67dadbc710dc1b3badd565c31757cbade2db3582daa63f84&",
+      "x64": "https://github.com/RSDTestAccount/RSD-Downloads/raw/refs/heads/main/CrypticSetup.exe",
       "x86": null
     },
     "cryptic": {
-      "files": "https://cdn.discordapp.com/attachments/1341160898613608580/1341161248716357692/Cryptic1.zip?ex=67b4fd3f&is=67b3abbf&hm=510e273d69d6be4d3449d4455d2ed9fae32f8c632f43452a7838568d9d23f160&"
+      "files": "https://github.com/RSDTestAccount/RSD-Downloads/raw/refs/heads/main/Cryptic.zip"
     }
   } 
