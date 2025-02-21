@@ -1,6 +1,6 @@
 {
     "roblox": {
-      "version": "version-2d6639b3364b47cd",
+      "version": "version-302fe31805ab4542",
       "type": "WindowsPlayer",
       "channel": "LIVE"
     },
@@ -12,7 +12,7 @@
       "files": "https://github.com/RSDTestAccount/RSD-Downloads/raw/refs/heads/main/Cryptic.zip"
     },
     "discord": {
-      "invite": "https://discord.gg/CywNYfHJRU"
+      "invite": "https://discord.gg/crypticpc"
     },
     "shop": {
         "link": "https://rsdstore.com/"
