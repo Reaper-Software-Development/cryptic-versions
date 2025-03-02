@@ -1,6 +1,6 @@
 {
     "roblox": {
-      "version": "version-302fe31805ab4542",
+      "version": "version-67acd0f240534e7b",
       "type": "WindowsPlayer",
       "channel": "LIVE"
     },
@@ -9,7 +9,7 @@
       "x86": null
     },
     "cryptic": {
-      "files": "https://github.com/RSDTestAccount/RSD-Downloads/raw/refs/heads/main/Cryptic_HWID_Fix.zip"
+      "files": "https://github.com/RSDTestAccount/RSD-Downloads/raw/refs/heads/main/Cryptic.zip"
     },
     "discord": {
       "invite": "https://discord.gg/crypticpc"
